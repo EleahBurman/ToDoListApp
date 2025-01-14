@@ -1,3 +1,4 @@
 <resources>
-    <string name="app_name">ToDoListApp</string>
+    <string name="app_title">To Do List App</string>
+    <string name="app_description">Keep Track of All Your Tasks</string>
 </resources>
