@@ -15,7 +15,7 @@
             android:id="@+id/nameEdit"
             android:layout_width="391dp"
             android:layout_height="wrap_content"
-            android:hint="Task"
+            android:hint="@string/dialogue_task"
             android:textSize="20sp" />
     </RelativeLayout>
 </RelativeLayout>
