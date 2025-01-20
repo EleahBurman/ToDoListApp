@@ -26,4 +26,13 @@
         android:text="@string/app_description"
         android:textSize="16sp"
         />
+    <Button
+        android:id="@+id/add"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/add_task"
+        android:layout_alignParentBottom="true"
+        android:layout_centerHorizontal="true"
+        android:layout_marginBottom="250dp"
+        />
 </RelativeLayout>
